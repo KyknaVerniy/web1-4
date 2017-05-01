@@ -1,4 +1,8 @@
 @charset "UTF-8"; 
+body{
+    background-image:url("ジャパリパーク.jpg") ;
+}
+
 h1{
     font-size: 1.75em;
     color: #3399cc;
@@ -17,11 +21,6 @@ li{
 }
 
 
-    backgraund-image:url("ジャパリパーク.jpg") 
     
-    #back{backgraund-color:#4FDF1F;}
     
-    .bol{font-weight:bold;}
-    #hed:first-letter{fontsize:5em;}
     
-    h1{borber: solid 10px #dddddd;}
