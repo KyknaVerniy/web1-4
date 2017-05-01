@@ -6,8 +6,9 @@
 
 
     backgraund-image:url("ジャパリパーク.png");
-    backgraund-color; #fbf9ff;
-    text-align: center;
+    background-repeat: repeat;
+    background-color: #ffffff;
+    
 }
 
 </body>
