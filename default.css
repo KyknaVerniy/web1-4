@@ -5,7 +5,7 @@
 <p id=“lead”>こんにちは</p>
 
 
-    backgraund-image:url("ジャパリパーク.png");
+    backgraund-image:url(img scr="ジャパリパーク.png");
     background-repeat: repeat;
     background-color: #ffffff;
     
