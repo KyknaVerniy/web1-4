@@ -2,7 +2,10 @@
 <head>   
 </head>
 <body>
-    backgraund-image:ur1(ジャパリパーク.png);
+<p id=“lead”>こんにちは</p>
+
+
+    backgraund-image:url(ジャパリパーク.png);
     backgraund-color; #fbf9ff;
     text-align: center;
 }
